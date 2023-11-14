@@ -1,2 +1,2 @@
-# SeleniumBasics
+# SeleniumProject
 Selenium project-1
